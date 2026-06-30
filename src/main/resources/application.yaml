@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: ms-XXXX
+    name: ms-productos
   datasource:
     url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
